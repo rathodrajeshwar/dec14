@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> origin/master
 this is f1 file 
 good morning rajesh
